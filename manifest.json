@@ -10,8 +10,8 @@
   "commands": {
     "_execute_action": {
       "suggested_key": {
-        "default": "Ctrl+Shift+K",
-        "mac": "MacCtrl+Shift+K"
+        "default": "Ctrl+X",
+        "mac": "MacCtrl+X"
       },
       "description": "Opens keybr_extension.html"
     }

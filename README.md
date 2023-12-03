@@ -1,2 +1,2 @@
 # keybr-Extension
-An extension for typing using keybr.com
+A google chrome extension for typing using keybr.com
